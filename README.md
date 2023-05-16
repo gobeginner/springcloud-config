@@ -1,0 +1,2 @@
+# springcloud-config
+springcloud关于config服务配置中心的测试
